@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m Rahul Das, a passionate Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).<br><br>I enjoy solving complex problems and have solved 130+ LeetCode and 200+ GeeksforGeeks problems. Currently, I’m focused on building real-world, scalable web applications while strengthening my understanding of data structures, algorithms, and backend systems.<br><br>🚀 Always curious to learn, build, and grow as a developer.
+Hi 👋, I’m Rahul Das, a passionate Full-Stack Web Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).<br><br>I enjoy solving complex problems and have solved 240+ LeetCode and 290+ GeeksforGeeks problems. Currently, I’m focused on building real-world, scalable web applications while strengthening my understanding of data structures, algorithms, and backend systems.<br><br>🚀 Always curious to learn, build, and grow as a developer.
 
 
 # 💻 Tech Stack:
